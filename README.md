@@ -1,7 +1,14 @@
 ## Hi there 👋
 
+🔭 je suis entrain d'apprendre le develppement web
+👯 I’m looking to collaborate on ...
+💬 Ask me about ...
+📫 contacter moi ...
+⚡ Fun fact: ...
+
+
 <!--
-**ben-chabaka2025/ben-chabaka2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ben-chabaka2025/ben-chabaka2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
